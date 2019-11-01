@@ -1,0 +1,40 @@
+*.dll
+*.exe
+*.cmd
+*.pdb
+*.suo
+*.js
+*.user
+*.cache
+*.cs
+*.sln
+*.csproj
+*.map
+*.swp
+*.code-workspace
+*.log
+.DS_Store
+
+# VIM backup files
+*~
+
+# IntelliJ based IDEs
+.idea
+*.iml
+
+# npm
+node_modules
+package-lock.json
+npm-debug.log
+
+# Sublime
+.sublimets
+
+# Visual Studio Code
+.settings/launch.json
+.vs
+.vscode
+.history
+
+# yarn
+yarn.lock
